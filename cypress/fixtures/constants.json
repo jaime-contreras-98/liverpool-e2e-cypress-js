@@ -1,0 +1,6 @@
+{
+    "error_msg": {
+        "wrong_usr": "Wrong email or password.",
+        "no_pwrd": "Passwords must be at least 8 characters long."
+    }
+}
